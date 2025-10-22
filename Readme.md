@@ -377,16 +377,11 @@ Ce projet a été réalisé dans le cadre d'un travail pratique sur les système
 - Programmation orientée agents
 - Systèmes intelligents distribués
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
 
 <div align="center">
 
 **⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ! ⭐**
 
-Made with ❤️ by [Yahya Lemjid](https://github.com/YahyaLem02)
 
 </div>
